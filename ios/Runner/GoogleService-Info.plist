@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyDy_yh29xtyep-1DN1AJOmyLaPIIrP_UcU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>792087409562</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>co.prograde.store.instaStore</string>
+	<key>PROJECT_ID</key>
+	<string>instastore-29d4f</string>
+	<key>STORAGE_BUCKET</key>
+	<string>instastore-29d4f.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:792087409562:ios:464b8b6e8e00d5a389c023</string>
+</dict>
+</plist>

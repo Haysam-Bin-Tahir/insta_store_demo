@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "792087409562",
+    "project_id": "instastore-29d4f",
+    "storage_bucket": "instastore-29d4f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:792087409562:android:14e6d20b8ff62e8b89c023",
+        "android_client_info": {
+          "package_name": "co.prograde.store.insta_store"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzd3ko48EU-AdY63qMF2z4iDJGJ-5eQAk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
